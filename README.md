@@ -38,25 +38,3 @@
 ---
 
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/crislainemlima1&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=FF7B72&currStreakLabel=BB86FC" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=https://github.com/crislainemlima1&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BB86FC&line=BB86FC&point=FFFFFF" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
